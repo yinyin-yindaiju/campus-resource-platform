@@ -118,7 +118,7 @@
           <el-date-picker v-model="bookingForm.endTime" type="datetime" />
         </el-form-item>
         <el-form-item label="用途">
-          <el-textarea v-model="bookingForm.purpose" />
+           <el-input v-model="bookingForm.user" />
         </el-form-item>
       </el-form>
       <div slot="footer">
