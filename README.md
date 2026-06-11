@@ -71,6 +71,7 @@ npm run preview
 │   │   └── storage.js       # 本地存储工具
 │   ├── views/               # 页面视图
 │   │   ├── Login.vue        # 登录页面
+│   │   ├── Register.vue     # 注册页面
 │   │   ├── Dashboard.vue    # 数据看板
 │   │   ├── Resources.vue    # 资源登记
 │   │   ├── Bookings.vue     # 预约管理
